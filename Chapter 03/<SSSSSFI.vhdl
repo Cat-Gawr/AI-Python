@@ -4,7 +4,7 @@
 -- File name : binary_to_gray.vhdl
 -- Purpose   : A Binary to Gray converter
 --           :
--- Author(s) : Antonio Macrì
+-- Autore - ' ' ' ' ' ' ' '  ' ' ' '  ' ' '  '
 -------------------------------------------------------------------------------
 
 library IEEE;
