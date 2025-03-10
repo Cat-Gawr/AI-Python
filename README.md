@@ -32,20 +32,26 @@ di modificare il codice.
 
 l'intelligenza artificiale , inoltre , verrà di continuo modificato il nome , ecco i seguenti nomi : 
 
+
 1 - pesce gpt:
 la prima versione del NON-CHAT bot , capace solamente di fare calcoli basici  e cercare in 4 minuti
 le informazioni online.
+
 
 2 - P.Pesce AI 0.0.01 Beta XL:
 questa versione sarà ua versione migliorata dello 1.29% rispetto alla versione precedente 
 capace di capire oltre all'italiano...l'inglese:/(wow) , inoltre sarà capace di cercare
 informazioni in 3.01 minuti . 
 
+
 3 - P!2.Pesce AI 1.0.89 Alpha QE __-1
 questa versione sarà la seguente : 
 
+
  1 .  verrà rilasciata il 20  marzo del 2025 
+ 
  2 .  calcoli più potenti
+ 
  3 .  capace di capire inglese e italiano o forse anceh altre lingue come il:
       francese , tedesco , spagnolo , russo , cinese , giapponese , coreano , arabo . 
       le lingue scritte  NON dovranno per forza essere messe nel AI
