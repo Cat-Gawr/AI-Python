@@ -25,6 +25,7 @@ Q - è facile usarla ?
 
 R - si .
 
+## About the AI / IA 
 il codice sarà per lo più in codice Python ( si accetta anche l'ultima versione di python ) 
 l'architettura sarà basata su architettura x86 ( x86# ) .
 il codice inoltre sarà ALTAMENTE modificabile a tutte le persone che saranno brave a essere capici 
