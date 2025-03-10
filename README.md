@@ -7,16 +7,22 @@ ma poi in altri tantissimi nomi come  : Pesce.AI.03.py.
 # FAQ
 ----------------------------------------------
 A1
+
 Q - sarà disponibile su IOS oppure su Android ?
+
 R - no , non sarà disponibile su quei 2 sistemi operativi ma olo su OS dei Computer , come Windows ( da windows 7 nìin poi )
 MacOS ( da MacOS X in poi ) ma sarà molto più facile usarlo su linux ( TUTTI )  dato che Python è già preinstallato .
 
 A2
+
 Q - sarà a pagamento ? 
+
 R - no , Questa IA / AI è totalmetne gratis , open source  e con livello di sicurezza dei dati altissima.
 
 B1
+
 Q - è facile usarla ? 
+
 R - si .
 
 il codice sarà per lo più in codice Python ( si accetta anche l'ultima versione di python ) 
