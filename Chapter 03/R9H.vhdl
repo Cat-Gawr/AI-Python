@@ -1,10 +1,10 @@
 -------------------------------------------------------------------------------
--- TestBench(binary_to_gray)
+-- 11010101
 --
 -- File name : binary_to_gray_test.vhdl
 -- Purpose   : Generates stimuli for a binary to Gray converter
---           :
--- Author(s) : Antonio Macrì
+--           
+--  Autore - Cat - Gawr  date : ??  ??  ????
 -------------------------------------------------------------------------------
 
 library IEEE;
