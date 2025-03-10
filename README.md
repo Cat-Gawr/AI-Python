@@ -62,8 +62,11 @@ questa versione sarà la seguente :
 ## ALCUNI SPOILER  , PER FAVORE NON LEGGERE SE NON VUOI SAPERE NULLA PERCHè BOH  
   ( non sono spoiler veri e propri ma solo delle idee che potrebbero essere implementate )
 
+
 1 . il bot verrà rilasciato su github
+
 2 . Il bot sarà facilmente modificabile in queste seguenti IDE ( o non ) : 
+    
     - Visual Studio Code
     
     - Visual Studio
@@ -174,7 +177,7 @@ questa versione sarà la seguente :
             - TeX2pag(e)
           
             - TeX2RTF
-               
+
                 - TeX2HTML ( in questo caso tutti gli TeX saranno in ritardo di 1-8 giorni )
                     
 ---------------------------------------------------------
