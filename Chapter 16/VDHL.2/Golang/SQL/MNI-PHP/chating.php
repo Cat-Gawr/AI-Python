@@ -3,9 +3,12 @@
 /**
  * This file is part of the TelegramBot package.
  *
- * (c) Avtandil Kikabidze aka LONGMAN <akalongman@gmail.com>
+ * WARNING !
+ * This PHP file may cause small bug(s) to the Python function system,
+ *please download all php, python .cpp, TeX and vhdl and GO extensions
+ *first before running the program
  *
- * For the full copyright and license information, please view the LICENSE
+ * For the full NON - copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */
 
