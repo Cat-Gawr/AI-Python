@@ -49,11 +49,11 @@ informazioni in 3.01 minuti .
 questa versione sarà la seguente : 
 
 
- 1 .  verrà rilasciata il 20  marzo del 2025 
+   1 .  verrà rilasciata il 20  marzo del 2025 
  
- 2 .  calcoli più potenti
+   2 .  calcoli più potenti
  
- 3 .  capace di capire inglese e italiano o forse anceh altre lingue come il:
+   3 .  capace di capire inglese e italiano o forse anceh altre lingue come il:
       francese , tedesco , spagnolo , russo , cinese , giapponese , coreano , arabo . 
       le lingue scritte  NON dovranno per forza essere messe nel AI
 
