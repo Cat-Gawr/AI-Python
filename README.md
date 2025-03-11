@@ -1,4 +1,4 @@
-# AI - Python - VDHL
+# AI - Python - VDHL ( and C++ )
 ----------------------------------------------
 Salve  ,
 questa IA / AI fatta in python e in VDHL verrà in futuro cambiato di nome in PESCE - GPT 
