@@ -10,7 +10,7 @@ A1
 
 Q - sarà disponibile su IOS oppure su Android ?
 
-R - no , non sarà disponibile su quei 2 sistemi operativi ma solo su OS dei Computer , come Windows ( da windows 7 nìin poi )
+R - no , non sarà disponibile su quei 2 sistemi operativi ma solo su OS dei Computer , come Windows ( da windows 7 in poi )
 MacOS ( da MacOS X in poi ) ma sarà molto più facile usarlo su linux ( TUTTI )  dato che Python è già preinstallato .
 
 A2
