@@ -193,4 +193,4 @@ questa versione sarà la seguente :
                 - TeX2HTML ( in questo caso tutti gli TeX saranno in ritardo di 1-8 giorni )
                     
 ---------------------------------------------------------
-NON - COPYRIGHT , PROGETTO GRATIS PER TUTTI - 2025
+NON - COPYRIGHT© , PROGETTO GRATIS PER TUTTI - 2025
