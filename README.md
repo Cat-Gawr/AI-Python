@@ -5,7 +5,7 @@ questa IA / AI fatta in python e in VDHL verrà in futuro cambiato di nome in PE
 ma poi in altri tantissimi nomi come  : Pesce.AI.03.py.
 
 > [!NOTE]  
-> può darsi che l' AI / IA può dare piccoli problemi come :
+> può darsi che l' AI / IA darà piccoli problemi come :
 > 
 > ERRORE 404 —— chating non valido 
 
@@ -31,7 +31,7 @@ Q - è facile usarla ?
 R - si .
 
 > [!IMPORTANT]
-> domani metteò l'ultimo fiel del reposity
+> domani metterò l'ultimo file del reposity
 > il 15 marzo farò un nuovissimo reposity più lungo
 > ( il 26 fino al 29 non pubblicherò )
 
