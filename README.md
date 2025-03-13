@@ -4,6 +4,10 @@ Salve  ,
 questa IA / AI fatta in python e in VDHL verrà in futuro cambiato di nome in PESCE - GPT 
 ma poi in altri tantissimi nomi come  : Pesce.AI.03.py.
 
+> [!NOTE]  
+> può darsi che l' AI / IA può dare piccoli problemi come :
+> ERRORE 404 —— chating non valido 
+
 # FAQ
 ----------------------------------------------
 A1
@@ -24,6 +28,11 @@ B1
 Q - è facile usarla ? 
 
 R - si .
+
+> [!IMPORTANT]
+> domani metteò l'ultimo fiel del reposity
+> il 15 marzo farò un nuovissimo reposity più lungo ( il 26 fino al 29 non pubblicherò )
+
 
 ## About the AI / IA 
 il codice sarà per lo più in codice Python ( si accetta anche l'ultima versione di python ) 
