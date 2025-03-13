@@ -32,7 +32,8 @@ R - si .
 
 > [!IMPORTANT]
 > domani metteò l'ultimo fiel del reposity
-> il 15 marzo farò un nuovissimo reposity più lungo ( il 26 fino al 29 non pubblicherò )
+> il 15 marzo farò un nuovissimo reposity più lungo
+> ( il 26 fino al 29 non pubblicherò )
 
 
 ## About the AI / IA 
