@@ -6,6 +6,7 @@ ma poi in altri tantissimi nomi come  : Pesce.AI.03.py.
 
 > [!NOTE]  
 > può darsi che l' AI / IA può dare piccoli problemi come :
+> 
 > ERRORE 404 —— chating non valido 
 
 # FAQ
