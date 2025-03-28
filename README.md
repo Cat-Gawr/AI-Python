@@ -191,6 +191,11 @@ questa versione sarà la seguente :
             - TeX2RTF
 
                 - TeX2HTML ( in questo caso tutti gli TeX saranno in ritardo di 1-8 giorni )
+
+ >[!CAUTION]
+>per Visual Basic ( VS B ) non sarà possiile modificare l'app .
+>
+>per maggiore problemi non usare Vs B ma VsCode o VIM
                     
 ---------------------------------------------------------
 NON - COPYRIGHT© , PROGETTO GRATIS PER TUTTI - 2025
