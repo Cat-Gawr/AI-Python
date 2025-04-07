@@ -3,9 +3,9 @@
  *
  * class which implements the k-Nearest Neighbor algorithm
  *
- * Author:	Stefan Moebius (mail@stefanmoebius.de)
+ * Author:	Cat-gawr
  *
- * Date:	2011-05-19
+ * Date:	7 - 04 -  2025
  *
  * Licence: Released to the PUBLIC DOMAIN
  *
