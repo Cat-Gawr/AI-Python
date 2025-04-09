@@ -79,9 +79,12 @@ questa versione sarà la seguente :
 
 2 . Il bot sarà facilmente modificabile in queste seguenti IDE ( o non ) : 
     
-    - Visual Studio Code
+    - Visual Studio Code - insiders
+
+    - Visual studio 2022 
     
-    - Visual Studio
+    - Visual Studio code
+    
       - il Fork di VsCode ovvero  Cursor 
       - il Fork di VsCode ovvero  VSCodium
    
