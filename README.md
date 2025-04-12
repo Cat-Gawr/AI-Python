@@ -1,4 +1,6 @@
 # AI - Python - VDHL ( and C++ )
+
+name : P.Pesce AI 0.0.01 Beta XL
 ----------------------------------------------
 Salve  ,
 questa IA / AI fatta in python e in VDHL verrà in futuro cambiato di nome in PESCE - GPT 
