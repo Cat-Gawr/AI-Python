@@ -1,5 +1,9 @@
 # AI - Python - VDHL ( and C++ )
 
+![Image](https://github.com/user-attachments/assets/e115fc10-a904-44a8-a0d7-f777c3c0f428)
+
+<h3 align="center">Foto che verrà modificata nel corso del tempo </h3>
+
 name : P.Pesce AI 0.0.01 Beta XL
 ----------------------------------------------
 Salve  ,
