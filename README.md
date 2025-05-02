@@ -1,6 +1,6 @@
 # AI - Python - VDHL ( and C++ )
 
-![Image](https://github.com/user-attachments/assets/e115fc10-a904-44a8-a0d7-f777c3c0f428)
+![Image](https://github.com/user-attachments/assets/614df99a-147e-43dd-9cec-25bfc97645c1)
 
 <h3 align="center">Foto che verrà modificata nel corso del tempo </h3>
 
